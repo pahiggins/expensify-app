@@ -2,7 +2,7 @@
   "name": "expensify",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Peter Higgins",
+  "author": "Andrew Mead",
   "license": "MIT",
   "scripts": {
     "serve": "live-server public/",
